@@ -20,7 +20,9 @@ This is a basic HTTP server built using [Express.js](https://expressjs.com/).
    cd Making-HTTP-Server
 
 2. **Install dependencies**
+    ```bash
    npm install
 
-3. **Run the server**
+4. **Run the server**
+   ```bash
    node index.js
